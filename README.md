@@ -1,37 +1,35 @@
 # OVERLOOK — Premium Modern Barber Studio
 
-A modern luxury barber studio portfolio website for **OVERLOOK**, designed for clients in the US, Canada, UK, and Australia.
+A modern, high-fidelity responsive website for **OVERLOOK Barber Studio**, built with React, TypeScript, and Tailwind CSS based on the Stitch editorial design.
 
-## ✨ Features
-- **Editorial Fashion Aesthetic**: Warm ivory (`#faf9f6`), soft stone surfaces, charcoal typography, and muted sage accents.
-- **Modern Western Styling**: Classic EB Garamond serif display paired with Plus Jakarta Sans body typography.
-- **Interactive Draggable Before/After Slider**: Touch & mouse drag comparison showcasing real client transformations.
-- **Lookbook Gallery with Fullscreen Lightbox**: High-resolution editorial haircuts with caption overlays.
-- **Master Craftsmen Profiles**: Bios and specialties for creative directors and senior barbers.
-- **Verified 5-Star Testimonials**: Authentic client reviews from Toronto, King West, and Yorkville.
-- **Concierge Contact Modal**: Quick inquiry system with zero complex booking friction.
+## Features
 
-## 🛠️ Tech Stack
-- **React 18**
-- **TypeScript**
-- **Tailwind CSS**
-- **Lucide Icons**
-- **Vite**
+- **Editorial Minimalist Aesthetic**: High-contrast typography (`EB Garamond` + `Plus Jakarta Sans`) and warm natural palette.
+- **Hero Slideshow**: Synced headlines and high-resolution photo transitions with manual controls and slide counters.
+- **Interactive Before / After Slider**: Fluid pointer-driven comparison slider with touch and mouse dragging.
+- **Brand Story Section**: EST. 2018 floating badge, craftsmanship imagery, and core philosophy pillars.
+- **Fully Responsive**: Seamless layouts for Desktop, Tablet, and Mobile with animated drawer menu.
 
-## 🚀 Getting Started
+## Tech Stack
 
-### 1. Install Dependencies
-```bash
-npm install
-```
+- **Framework**: React 18 + TypeScript
+- **Bundler**: Vite
+- **Styling**: Tailwind CSS
+- **Icons**: Lucide React / Material Symbols
 
-### 2. Run Development Server
-```bash
-npm run dev
-```
-Open `http://localhost:3000` to view the live studio.
+## Getting Started
 
-### 3. Build for Production
-```bash
-npm run build
-```
+1. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+2. Run the development server:
+   ```bash
+   npm run dev
+   ```
+
+3. Build for production:
+   ```bash
+   npm run build
+   ```
